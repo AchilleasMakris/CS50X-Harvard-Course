@@ -6,7 +6,7 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 
 ## Technologies
 
-This project is created with:
+This project is based on:
 
     HTML
     CSS
