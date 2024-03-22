@@ -26,12 +26,6 @@ With the resources available and studies from:
 
     https://cs50.harvard.edu/x/2024/
 
-
 ## Status
 
 Course under development!
-
-## Author/Contact
-
-    M. Achilleas - Initial work
-    
