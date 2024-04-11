@@ -15,6 +15,7 @@ This project is based on:
     Python
     SQL
     Flask
+    Jinja
     Cybersecurity
     Github
     Command Line
@@ -28,4 +29,4 @@ With the resources available and studies from:
 
 ## Status
 
-Course under development!
+Course Finished!
