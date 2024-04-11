@@ -1,0 +1,9 @@
+{% extends "layout.html" %} {% block body %}
+
+<ul>
+    {% for show in shows %}
+    <li>{{ show["title"] }} - {{ show["year"] }}</li>
+    {% endfor %}
+</ul>
+
+{% endblock %}
