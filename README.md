@@ -1,4 +1,4 @@
-**`Harvard CS50 COURSE`**
+**`Harvard CS50x COURSE`**
 
 ## Introduction
 
